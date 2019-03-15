@@ -1,4 +1,4 @@
-# music
+# Music
 
 ### vue 音乐项目
 
